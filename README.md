@@ -17,7 +17,7 @@
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributors](#codes)
+- [Contributors](#contributors)
 
 <div align= "justify">
 
@@ -49,5 +49,7 @@ It is assumed that a platform similar to Reforestabot is available, which consti
 | Name                          | Github                               |
 |-------------------------------|--------------------------------------|
 | Aldo Oziel Peña Gamboa        | https://github.com/AldoPenaGa        |
-| Joan Carlos Monfil Huitle     | https://github.com/JoanCarlosMonfilHuitle  |
+| Charbel Breydy Torres         | https://github.com/Buly1601          |
+| Joan Carlos Monfil Huitle     | https://github.com/JoanCarlosMonfilHuitle|
+| Enrique Rocha Espinoza        | https://github.com/Enrique-Rocha-Espinoza|
 
