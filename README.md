@@ -9,7 +9,8 @@
 </p>
 <be>
 
-![Introduction](https://github.com/AldoPenaGa/LRT4102-Reforestabot/blob/main/Pictures/Gif1.gif)
+![Gif1](https://github.com/AldoPenaGa/LRT4102-Reforestabot/blob/main/Pictures/Gif1.gif)
+![Gif2](https://github.com/AldoPenaGa/LRT4102-Reforestabot/blob/main/Pictures/Gif2.gif)
 
 ## Table of contents
 - [Introduction](#introduction)
