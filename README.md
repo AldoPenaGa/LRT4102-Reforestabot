@@ -2,7 +2,7 @@
   <h2 align="center">User manual for Reforestabot </h2>
 
   <p align="justify">
-  This is the user manual designed for using Reforestabot, our final project for the LRT4102 class: Design of Robotic Systems.
+  This user manual offers detailed instructions for using Reforestabot, a robotic platform created for the Universidad de las Américas Puebla (UDLAP) LRT4102: Design of Robotic Systems course. The installation procedure, requirements, and usage guidelines for the system's Arduino and Raspberry Pi components are covered in full in the guide. It also describes the teleoperation instructions that may be used to control the robot's movement, drilling, and seed delivery, among other tasks. Those with a basic understanding of robotics and programming concepts, as well as access to the necessary software and hardware, are the intended users for this guide.
 	  
   <br>Universidad de las Américas Puebla (UDLAP) - Guided by professor Dr. César Martínez Torres. "https://www.linkedin.com/in/c%C3%A9sar-martinez-torres-617b5347/?originalSubdomain=mx>" 
   </p>
@@ -22,6 +22,7 @@
 <div align= "justify">
 
 ### Introduction
+Automating the reforestation process is the ultimate objective of the robotic platform Reforestabot. The robot has a movement system for moving around the terrain, a seed distribution system for planting seeds, and a drilling device for making holes in the ground. A Raspberry Pi computer and an Arduino microcontroller work together to control the robot using the standard Robot Operating System (ROS). The robot's motors and sensors are controlled at a low level by the Arduino, while higher level decision-making and communication functions are provided by the Raspberry Pi. The robot's motions and activities can be remotely controlled by the user using a teleoperation interface that allows for remote operation using a Linux-based computer.
 
 ### Prerequisites
 It is assumed that a platform similar to Reforestabot is available, which constitutes the following:
