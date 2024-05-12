@@ -113,16 +113,20 @@ Type in the terminal `mkdir -p ~/catkin_ws/src`, then `cd ~/catkin_ws/` and comp
 Finally, the ROS package needs to be uploaded to the Raspberry:
 1. Type `cd catkin_ws` in the terminal.
 2. Write then: `catkin_create_pkg Reforestabot roscpp rospy std_msgs`
-3. Then, in a known location clone the repository: `git clone https://github.com/AldoPenaGa/LRT4102-Reforestabot.git`.
+3. Then, in a known location outside the catkin workspace clone the repository: `git clone https://github.com/AldoPenaGa/LRT4102-Reforestabot.git`.
 4. Copy the content from the folder called ROS_package into the Reforestabot package we have just created, this is located in `cd ~/catkin_ws/src/Reforestabot` (command mv can be used `mv "pathSourceDirectory" "pathTargetDirectory"`).
 5. Finally, `cd ~/catkin_ws` and `catkin_make`.
-
 
 If everything has been properly installed, then here ends the installation section for the Raspberry. For further information please check: https://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment
 
 
 ### Usage
+The usage is pretty simple:
 
+1. Open three SSH sessions from the terminal in the computer.
+2. Run `roscore` in one session.
+3. In the next session type 
+4. 
 
 
 ### Contributors
