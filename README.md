@@ -125,8 +125,28 @@ The usage is pretty simple:
 
 1. Open three SSH sessions from the terminal in the computer.
 2. Run `roscore` in one session.
-3. In the next session type 
-4. 
+3. In the next session type `rosrun rosserial_python serial_node.py /dev/ttyACM0`. If a problem is presented, then type `sudo chmod 666 /dev/ttyACM0` before.
+4. Finally, in the third SSH session, go to `cd catkin_ws/src/Reforestabot/src` and type `python3 teleopReforestabot.py`.
+
+The next keys correspond to the actions of the teleoperator program designed:
+
+```python
+    'w': "11",        # Frente
+    'a': "21",        # Izquierda
+    'd': "12",        # Derecha
+    's': "00",        # Detengo
+    'r': "r",         # Retrocedo
+    'e': "01",        # Giro pequeño derecha
+    'q': "10",        # Giro pequeño izquierda
+    'u': "u",        # Subo pistón
+    'j': "d",        # Bajo pistón
+    'k': "s",        # Detengo pistón
+    'h': "s",        # Detengo pistón
+    'p': "p",        # Perforar
+    'l': "l",         # Dejar de perforar
+    'm': "m",        # Semillero ON
+    'n': "n"        # Semillero OFF
+```
 
 
 ### Contributors
