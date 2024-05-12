@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">User manual for Reforestabot </h2>
+  <h2 align="center">Reforestabot: User manual </h2>
 
   <p align="justify">
   This user manual offers detailed instructions for using Reforestabot, a robotic platform created for the Universidad de las Américas Puebla (UDLAP) LRT4102: Design of Robotic Systems course. The installation procedure, requirements, and usage guidelines for the system's Arduino and Raspberry Pi components are covered in full in the guide. It also describes the teleoperation instructions that may be used to control the robot's movement, drilling, and seed delivery, among other tasks. Those with a basic understanding of robotics and programming concepts, as well as access to the necessary software and hardware, are the intended users for this guide.
